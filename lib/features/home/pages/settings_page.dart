@@ -7,6 +7,8 @@ import '../../../core/config/app_colors.dart';
 import '../../../core/widgets/custom/custom_scaffold.dart';
 import '../../../core/widgets/page_title.dart';
 
+String apsID = '';
+
 class SettingsPage extends StatelessWidget {
   const SettingsPage({super.key});
 
