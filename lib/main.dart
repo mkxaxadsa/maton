@@ -65,7 +65,7 @@ Future<void> jfklsdjfldsfsd() async {
   final AppsFlyerOptions options = AppsFlyerOptions(
     showDebug: false,
     afDevKey: 'xmcqmbVvE5e4e2UBZ3twRT',
-    appId: '6503623211',
+    appId: '6505144818',
     timeToWaitForATTUserAuthorization: 15,
     disableAdvertisingIdentifier: false,
     disableCollectASA: false,
